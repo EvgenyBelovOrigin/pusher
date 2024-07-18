@@ -14,11 +14,13 @@ fun main() {
 
     FirebaseApp.initializeApp(options)
 
+    val chooseTypeOfNotification: Int // 1 - message 2 - newPost
+
     val message = Message.builder()
         .putData("action", "LIKE")
         .putData("content", """{
           "userId": 1,
-          "userName": "Vasiliy",
+          "userName": "Evgeny",
           "postId": 2,
           "postAuthor": "Netology"
         }""".trimIndent())
