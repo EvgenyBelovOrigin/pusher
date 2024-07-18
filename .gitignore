@@ -43,5 +43,5 @@ bin/
 .DS_Store
 
 ### DB
-fcm.json
+
 src/main/kotlin/ru/netology/pusher/constants.kt
