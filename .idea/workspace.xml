@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c414ac51-6375-4038-ae71-a77c3cbbac4d" name="Changes" comment="" />
+    <list default="true" id="c414ac51-6375-4038-ae71-a77c3cbbac4d" name="Changes" comment="push-sender gitignore changed test">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,19 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -29,10 +43,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder0": "0",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder1": "1",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder2": "2",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatOrder3": "3",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth0": "311",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth1": "311",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth2": "312",
+    "FileHistory.git4idea.history.GitHistoryProvider_flatWidth3": "311",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder0": "0",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder1": "1",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder2": "2",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeOrder3": "3",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth0": "311",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth1": "311",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth2": "312",
+    "FileHistory.git4idea.history.GitHistoryProvider_treeWidth3": "311",
+    "Gradle.Build push-sender.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/work/Projects/Android/push-sender/src/main/kotlin/Main.kt"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "C:\\Users\\ebelo\\.gradle"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,17 +81,70 @@
       <option name="presentableId" value="Default" />
       <updated>1721151183324</updated>
     </task>
+    <task id="LOCAL-00001" summary="push-sender">
+      <option name="closed" value="true" />
+      <created>1721155756254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721155756254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="push-sender test git">
+      <option name="closed" value="true" />
+      <created>1721326527531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721326527531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="push-sender gitignore changed">
+      <option name="closed" value="true" />
+      <created>1721327284461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721327284461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="push-sender gitignore changed test">
+      <option name="closed" value="true" />
+      <created>1721327828220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721327828220</updated>
+    </task>
+    <task id="LOCAL-00005" summary="push-sender gitignore changed">
+      <option name="closed" value="true" />
+      <created>1721328417306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721328417306</updated>
+    </task>
+    <task id="LOCAL-00006" summary="push-sender gitignore changed test">
+      <option name="closed" value="true" />
+      <created>1721328708738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721328708738</updated>
+    </task>
+    <task id="LOCAL-00007" summary="push-sender gitignore changed test">
+      <option name="closed" value="true" />
+      <created>1721329048321</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721329048321</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push-sender" />
+    <MESSAGE value="push-sender test git" />
+    <MESSAGE value="push-sender gitignore changed" />
+    <MESSAGE value="push-sender gitignore changed test" />
+    <option name="LAST_COMMIT_MESSAGE" value="push-sender gitignore changed test" />
   </component>
 </project>
