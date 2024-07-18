@@ -14,7 +14,7 @@ fun main() {
 
     FirebaseApp.initializeApp(options)
 
-    val chooseTypeOfNotification: Int // 1 - message 2 - newPost
+    val chooseTypeOfNotification: Int // 1 - message 2 - newPost 3
 
     val message = Message.builder()
         .putData("action", "LIKE")
