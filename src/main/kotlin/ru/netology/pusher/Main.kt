@@ -32,5 +32,5 @@ fun main() {
         }""".trimIndent()
     ).setToken(token).build()
 
-    FirebaseMessaging.getInstance().send(message)
+    FirebaseMessaging.getInstance().send(newPost)
 }
